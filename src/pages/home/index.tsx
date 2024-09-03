@@ -33,7 +33,6 @@ function Home() {
             <span className="text-zinc-700">Jundiaí - SP</span>
           </div>
         </section>
-
       </main>
     </Container>
   );
